@@ -1,2 +1,2 @@
-# portfolio
-A summary about myself
+# Portfolio
+A summary about myself (in progress)
